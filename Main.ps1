@@ -24,7 +24,7 @@ $Global:MyOSDCloud = [ordered]@{
 Write-Host "OSDCloud Variables"
 Write-Output $Global:MyOSDCloud
 
-timeout /t 20
+Start-Sleep -Seconds 20
 
 #Launch OSDCloud
 Write-Host "Starting OSDCloud" -ForegroundColor Green
