@@ -1,6 +1,6 @@
 #Variables to define the Windows OS / Edition etc to be applied during OSDCloud
 
-$OSName = 'Windows 11 24H2 x64'
+$OSName = 'Windows 11 25H2 x64'
 $OSEdition = 'Pro'
 $OSActivation = 'Retail'
 $OSLanguage = 'en-gb'
